@@ -10,7 +10,7 @@ import retrofit2.http.GET;
 import retrofit2.http.QueryMap;
 
 /**
- * Created by gxl on 2017/11/28.
+ * Created by mxdl on 2017/11/28.
  */
 
 public interface YoudaoAPI {

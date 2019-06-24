@@ -9,7 +9,7 @@ import com.yige.translate.mvp.view.IBaseView;
 import javax.inject.Inject;
 
 /**
- * Created by gxl on 2017/11/27.
+ * Created by mxdl on 2017/11/27.
  */
 
 public class BaseActivity<P extends BasePresenter> extends AppCompatActivity implements IBaseView {

@@ -11,7 +11,7 @@ import com.yige.translate.injection.module.APIModule;
 import com.yige.translate.injection.module.AppModule;
 
 /**
- * Created by gxl on 2017/11/28.
+ * Created by mxdl on 2017/11/28.
  */
 
 public class MyApplication extends Application {

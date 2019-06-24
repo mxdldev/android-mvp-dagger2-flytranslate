@@ -3,7 +3,7 @@ package com.yige.translate.mvp.model.bean;
 import java.util.List;
 
 /**
- * Created by gxl on 2017/11/27.
+ * Created by mxdl on 2017/11/27.
  */
 
 public class TransResult {

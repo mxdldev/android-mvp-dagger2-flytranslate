@@ -3,7 +3,7 @@ package com.yige.translate.mvp.model;
 import javax.inject.Inject;
 
 /**
- * Created by gxl on 2017/11/28.
+ * Created by mxdl on 2017/11/28.
  */
 
 public class TranslateService implements ITranslateService {

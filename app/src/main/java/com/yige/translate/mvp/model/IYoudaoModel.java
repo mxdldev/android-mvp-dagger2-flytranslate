@@ -6,7 +6,7 @@ import io.reactivex.Observable;
 import okhttp3.ResponseBody;
 
 /**
- * Created by gxl on 2017/11/26.
+ * Created by mxdl on 2017/11/26.
  */
 
 public interface IYoudaoModel extends IBaseModel{

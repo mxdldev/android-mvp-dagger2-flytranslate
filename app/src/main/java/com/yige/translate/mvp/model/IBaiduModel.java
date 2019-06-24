@@ -5,7 +5,7 @@ import com.yige.translate.mvp.model.bean.TransResult;
 import io.reactivex.Observable;
 
 /**
- * Created by gxl on 2017/11/26.
+ * Created by mxdl on 2017/11/26.
  */
 
 public interface IBaiduModel extends IBaseModel{

@@ -2,7 +2,7 @@ package com.yige.translate.mvp.presenter;
 
 import com.yige.translate.mvp.view.IBaseView;
 /**
- * Created by gxl on 2017/11/26.
+ * Created by mxdl on 2017/11/26.
  */
 
 public class BaiduContract {

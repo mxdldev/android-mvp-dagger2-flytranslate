@@ -10,7 +10,7 @@ import retrofit2.http.Query;
 import retrofit2.http.QueryMap;
 
 /**
- * Created by gxl on 2017/11/26.
+ * Created by mxdl on 2017/11/26.
  */
 
 public interface BaiduAPI {

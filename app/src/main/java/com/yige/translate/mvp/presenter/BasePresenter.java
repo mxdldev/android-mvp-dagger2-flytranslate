@@ -4,7 +4,7 @@ import com.yige.translate.mvp.view.IBaseView;
 import com.yige.translate.mvp.model.IBaseModel;
 
 /**
- * Created by gxl on 2017/11/27.
+ * Created by mxdl on 2017/11/27.
  */
 
 public abstract class BasePresenter<M extends IBaseModel,V extends IBaseView> implements IBasePresenter {

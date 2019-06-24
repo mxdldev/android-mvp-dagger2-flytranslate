@@ -8,7 +8,7 @@ import com.yige.translate.ui.activity.MainActivity;
 import dagger.Component;
 
 /**
- * Created by gxl on 2017/11/28.
+ * Created by mxdl on 2017/11/28.
  */
 @ActivityScope
 @Component(modules = {MainModule.class} ,dependencies = {AppComponent.class})

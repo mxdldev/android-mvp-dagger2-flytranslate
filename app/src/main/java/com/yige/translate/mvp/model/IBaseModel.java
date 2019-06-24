@@ -1,7 +1,7 @@
 package com.yige.translate.mvp.model;
 
 /**
- * Created by gxl on 2017/11/27.
+ * Created by mxdl on 2017/11/27.
  */
 
 public interface IBaseModel {

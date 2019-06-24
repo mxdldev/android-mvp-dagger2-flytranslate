@@ -16,7 +16,7 @@ import retrofit2.adapter.rxjava2.RxJava2CallAdapterFactory;
 import retrofit2.converter.gson.GsonConverterFactory;
 
 /**
- * Created by gxl on 2017/11/26.
+ * Created by mxdl on 2017/11/26.
  */
 
 public class BaiduModel implements IBaiduModel {
